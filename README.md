@@ -5,3 +5,5 @@ A custom launcher made as a fun project that launches Minecraft and easily insta
 - Easily install your favorite mods
 - Easily view your logs and screenshots
 - And possibly more!
+
+Release: unknown ETA
