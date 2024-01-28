@@ -1,0 +1,9 @@
+github:
+  is_project_page: false
+
+theme: jekyll-theme-cayman
+
+title: ArcLauncher
+
+page-col: "#7f7f7f"
+text-col: "#ffffff"
